@@ -240,6 +240,9 @@
   $(document).ready(function() {
     $('.venobox').venobox();
   });
+
+
+//What's new window launcher. Check ALG website.
 /*
   $(window).on('load',function() {
       $('#features-modal').modal('show');
